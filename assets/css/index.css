@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+    height: 50vh;
+}
+.mainul{
+    width:200px;
+    background-color: pink;
+    border:2px solid blue;
+    padding: 20px;
+    margin-bottom: 50px;
+    
+}
+.htext{
+    width: 200px;
+    border-bottom: 2px solid red;
+    padding-bottom: 20px;
+    margin: 5px; /* Just for instance*/
+}
+.htext:hover{
+    border-color: blue;
+    color: red;
+}
+.mainul:hover{
+    border-radius: 20px;    
+}

@@ -2,9 +2,9 @@ In this exercise you'll practice using the CSS box model. For reference, see Duc
 
 To do:
 
-#1.Give the ul a border and a background color.
+1.Give the ul a border and a background color.
 
-#2.Make sure there's space between the list items and the border.
+2.Make sure there's space between the list items and the border.
 
 3.Why is the ul so wide? Make it less wide.
 
